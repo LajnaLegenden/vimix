@@ -6,6 +6,8 @@
     ./treesitter.nix
     ./options.nix
     ./conform.nix
+    ./lsp.nix
+    ./cmp.nix
   ];
 
  

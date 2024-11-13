@@ -4,6 +4,8 @@
   ...
 }:
 {
+      globals.mapleader = " ";
+
       opts = {
       # Enable relative line numbers
       number = true;
